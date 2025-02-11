@@ -1,2 +1,2 @@
 # BSWE_Dokumentace
-Dokumentace pro pro semestrálku z předmětu BSWE
+Dokumentace pro semestrálku z předmětu BSWE
